@@ -1,0 +1,129 @@
+{
+  "Original Character": [
+    {
+      "title": "Clown",
+      "date": "27-09-2023",
+      "description": "Fortune teller Clown",
+      "image": "/img/Clown0.png",
+      "position": [0, 0],
+      "primaryTags": ["Clown (OC's)", "OC's"],
+      "collections": ["OC's"]
+    },
+    {
+      "title": "Cloud",
+      "date": "27-01-2024",
+      "description": "Head in the clouds",
+      "image": "/img/Cloud0.jpg",
+      "position": [-45,0],
+      "primaryTags": ["Cloud (OC's)", "OC's"]
+    },
+    {
+      "title": "Aeris flowers",
+      "date": "10-10-2022",
+      "description": "Aeris be chilling",
+      "image": "/img/Aeris0.png",
+      "position": [0,0],
+      "primaryTags": ["Aeris (OC's)", "OC's"]
+    },
+    {
+      "title": "Aeris' lollipop",
+      "date": "23-11-2022",
+      "description": "Casual sucking",
+      "image": "/img/Aeris1.jpg",
+      "position": [0,-30],
+      "primaryTags": ["Aeris (OC's)", "OC's"]
+    },
+    {
+      "title": "Hoku and stars",
+      "date": "09-12-2022",
+      "description": "Raining stars :D",
+      "image": "/img/Hoku0.png",
+      "position": [0,-40],
+      "primaryTags": ["Hoku (OC's)", "OC's"]
+    },
+    {
+      "title": "Hoku bath",
+      "date": "09-12-2022",
+      "description": "Hoku bath water",
+      "image": "/img/Hoku1.png",
+      "position": [-45,0],
+      "primaryTags": ["Hoku (OC's)", "OC's"]
+    }
+  ],
+  "Fan Art": [
+    {
+      "title": "Amber",
+      "date": "28-03-2023",
+      "description": "Genshin Impact Lady",
+      "image": "/img/Amber0.png",
+      "position": [0, -10],
+      "primaryTags": ["Amber (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Aether Yandere",
+      "date": "10-10-2022",
+      "description": "My boy being obsessive",
+      "image": "/img/Aether0.jpg",
+      "position": [0, -10],
+      "primaryTags": ["Aether (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Aether in the ether",
+      "date": "11-10-2022",
+      "description": "My boy being ethereal",
+      "image": "/img/Aether1.jpg",
+      "position": [0, -10],
+      "primaryTags": ["Aether (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Aether in Space",
+      "date": "30-01-2024",
+      "description": "My boy in space",
+      "image": "/img/Aether2.jpg",
+      "position": [0, 0],
+      "primaryTags": ["Aether (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Alhaitham student",
+      "date": "09-12-2022",
+      "description": "hnngg",
+      "image": "/img/Alhaitham0.png",
+      "position": [0, 0],
+      "primaryTags": ["Alhaitham (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Yae Miko class",
+      "date": "14-12-2022",
+      "description": "Genshin Impact Lady as well",
+      "image": "/img/YaeMiko0.png",
+      "position": [-45, 0],
+      "primaryTags": ["Yae Miko (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Ganyu",
+      "date": "30-01-2024",
+      "description": "Genshin Impact Lady alsoooo",
+      "image": "/img/Ganyu0.jpg",
+      "position": [0, -10],
+      "primaryTags": ["Ganyu (Genshin Impact)", "Genshin Impact"],
+      "collections": ["Genshin Impact"]
+    },
+    {
+      "title": "Belphie at festival",
+      "date": "28-03-2023",
+      "description": "Genshin Impact Lady",
+      "image": "/img/Belphegor0.jpg",
+      "position": [0, -50],
+      "primaryTags": ["Belphegor (Obey Me)", "Obey Me"],
+      "collections": ["Obey Me"]
+    }
+  ],
+  "Animals": [],
+  "Landscape": []
+}
